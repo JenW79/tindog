@@ -171,8 +171,14 @@ p {
 
   #features {
     text-align: center;
+    font-size: 1.5rem;
   }
 
+  #cta .bottom-download {
+    text-align: center;
+    font-size: 1.5rem;
+  }
+  
   .iphone-image {
     width: 50%;
     position: static;
