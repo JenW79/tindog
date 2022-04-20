@@ -160,25 +160,36 @@ p {
   #title {
     text-align: center;
   }
-  
+
   #title .container-fluid {
-   text-align: center;
+    text-align: center;
   }
-  
+
   h1 {
     text-align: center;
   }
 
+  h3 {
+    font-size: 2.5rem;
+  }
+
+  p {
+    font-size: 2rem;
+  }
+
   #features {
     text-align: center;
-    font-size: 1.5rem;
+  }
+
+  .heading-features {
+    font-size: 2.5rem;
   }
 
   #cta .bottom-download {
     text-align: center;
     font-size: 1.5rem;
   }
-  
+
   .iphone-image {
     width: 50%;
     position: static;
